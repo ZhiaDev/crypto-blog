@@ -1,5 +1,5 @@
-# Flutter: Simple portfolio app
-📜 Simple portfolio project with flutter
+# Flutter: Simple Crypto Blog app
+💲 Simple Crypto Blog with Flutter
 
 <br/>
 
